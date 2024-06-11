@@ -178,7 +178,7 @@ As a user, I want to perform CRUD operations (Create, Read, Update, Delete) on a
 4. Add filtering capabilities based on specific criteria or search terms.
 5. Enable pagination to display a limited number of records per page.
 
-**Ensure to put a well detailed and explanatory documentation)
+## Ensure to put a well detailed and explanatory documentation)
 
 ## Recommended Tutorials
 
