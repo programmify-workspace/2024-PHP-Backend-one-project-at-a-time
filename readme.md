@@ -212,24 +212,20 @@ As a user, I want to perform CRUD operations (Create, Read, Update, Delete) on a
    - [Laracasts (Paid)](https://laracasts.com/)
    - [Laravel News](https://laravel-news.com/)
    #### YouTube Tutorials:
-   - [PHP Front To Back Series by Traversy Media](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
-   - [Laravel From Scratch by Brad Traversy](https://www.youtube.com/watch?v=BXiHvgrJfkg)
-
-   ### API Development
-   - [RESTful API Design Guide](https://restfulapi.net/)
-   - [API Design Best Practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
-   - [Postman Learning Center](https://learning.postman.com/)
-   #### YouTube Tutorials:
-   - [REST API Tutorial by Academind](https://www.youtube.com/watch?v=2hf4hdSOnq8)
-   - [Node.js & Express From Scratch by Traversy Media](https://www.youtube.com/watch?v=k_0ZzvHbNBQ)
-
-   ### SQL and MySQL
-   - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-   - [MySQL Documentation](https://dev.mysql.com/doc/)
-   - [SQL for Web Developers (Book) on Amazon](https://www.amazon.com/SQL-Web-Developers-2nd-Everything/dp/0987090860)
-   #### YouTube Tutorials:
-   - [MySQL Tutorial for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-   - [SQL Tutorial by Derek Banas](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+  - [PHP Front To Back Series by Traversy Media](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+  - [Laravel From Scratch by Brad Traversy](https://www.youtube.com/watch?v=BXiHvgrJfkg)
+  
+  ### API Development (for PHP)
+  - [RESTful API Design Guide](https://restfulapi.net/)
+  - [API Design Best Practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
+  - [Postman Learning Center](https://learning.postman.com/)
+  #### YouTube Tutorials:
+  - [REST API Tutorial by Academind](https://www.youtube.com/watch?v=2hf4hdSOnq8)
+  - [Building a RESTful API in PHP by Traversy Media](https://www.youtube.com/watch?v=SLpUKAGnm-g)
+  
+  ### PHPMyAdmin Tutorial (for PHP and MySQL)
+  - [Official PHPMyAdmin Documentation](https://www.phpmyadmin.net/docs/)
+  - [PHPMyAdmin Tutorial by Guru99](https://www.guru99.com/phpmyadmin-tutorial.html)
 
    ### Feel free to explore these resources to enhance your understanding and contribute to the project!
 
