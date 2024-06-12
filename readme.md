@@ -225,7 +225,7 @@ As a user, I want to perform CRUD operations (Create, Read, Update, Delete) on a
   
   ### PHPMyAdmin Tutorial (for PHP and MySQL)
   - [Official PHPMyAdmin Documentation](https://www.phpmyadmin.net/docs/)
-  - [PHPMyAdmin Tutorial by Guru99](https://www.guru99.com/phpmyadmin-tutorial.html)
+  - [phpMyAdmin Tutorial and MySQL Tutorial Course](https://www.youtube.com/playlist?list=PLk-EmIiBIYGF8WCitdIVq7dvvacqY0rdl)
 
    ### Feel free to explore these resources to enhance your understanding and contribute to the project!
 
