@@ -197,6 +197,42 @@ As a user, I want to perform CRUD operations (Create, Read, Update, Delete) on a
 
    This tutorial covers the basics of PHP programming language and provides examples, exercises, and explanations to help you learn PHP effectively. W3Schools is a popular online learning platform that offers comprehensive web development tutorials and references.
 
+## Resources
+
+ ### GitHub Tutorial
+   - [GitHub Guides](https://guides.github.com/)
+   - [GitHub Learning Lab](https://lab.github.com/)
+   - [GitHub Documentation](https://docs.github.com/)
+   #### YouTube Tutorials:
+   - [GitHub Tutorial for Beginners by Corey Schafer](https://www.youtube.com/watch?v=iv8rSLsi1xo)
+   - [GitHub Crash Course by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+   ### PHP and Laravel Tutorial
+   - [Laravel Documentation](https://laravel.com/docs)
+   - [Laracasts (Paid)](https://laracasts.com/)
+   - [Laravel News](https://laravel-news.com/)
+   #### YouTube Tutorials:
+   - [PHP Front To Back Series by Traversy Media](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+   - [Laravel From Scratch by Brad Traversy](https://www.youtube.com/watch?v=BXiHvgrJfkg)
+
+   ### API Development
+   - [RESTful API Design Guide](https://restfulapi.net/)
+   - [API Design Best Practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
+   - [Postman Learning Center](https://learning.postman.com/)
+   #### YouTube Tutorials:
+   - [REST API Tutorial by Academind](https://www.youtube.com/watch?v=2hf4hdSOnq8)
+   - [Node.js & Express From Scratch by Traversy Media](https://www.youtube.com/watch?v=k_0ZzvHbNBQ)
+
+   ### SQL and MySQL
+   - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+   - [MySQL Documentation](https://dev.mysql.com/doc/)
+   - [SQL for Web Developers (Book) on Amazon](https://www.amazon.com/SQL-Web-Developers-2nd-Everything/dp/0987090860)
+   #### YouTube Tutorials:
+   - [MySQL Tutorial for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+   - [SQL Tutorial by Derek Banas](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+   ### Feel free to explore these resources to enhance your understanding and contribute to the project!
+
 ## Tools You Might Need
 
 1. **XAMPP**: XAMPP is a cross-platform web server solution that includes Apache, MySQL, PHP, and other components. It provides a local development environment for running PHP applications and managing databases.
